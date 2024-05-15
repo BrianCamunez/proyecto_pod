@@ -1,0 +1,229 @@
+body{
+    background-color: #c5dfc5;
+
+}
+
+.normas{
+    margin-left: 30vh;
+    margin-right: 33vh;
+    width: 1300px;
+}
+
+.headertotal{
+    display: flex;
+}
+
+
+.headermenu ul{
+    list-style: none;
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.headermenu ul li{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.headermenu ul li a{
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+    
+    
+}
+
+.logowifi{
+    width: 4vh;
+}
+
+.headerizquierda{
+    width: 40vh;
+}
+
+.headerderecha{
+    width: 100%;
+}
+
+.buscador{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+
+
+
+
+
+.ficha{
+    margin-top: 40px;
+     width: 100%;
+     display: flex;
+}
+
+.fichaIzquierda{
+    width: 50%;
+}
+
+.fichaIzquierda img{
+    width: 100%;
+    height: 100%;
+}
+
+.fichaDerecha{
+    width: 50%;
+    background-color: white;
+    
+}
+
+.fichaUsuario{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.usuarioFoto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.usuarioFoto img {
+    border-radius: 10px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.usuarioNombre p{
+    font-size: 12px;
+}
+
+.usuarioMenu {
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+.fichaContenido{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.fichaContenido h4{
+    font-size: 30px;
+}
+
+.fichaContenido p{
+    font-size: 20px;
+}
+
+.fichaComentarios{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px black solid;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 200px;
+    
+    
+}
+
+.fichaInteraciones{
+    display: flex;
+}
+
+.fichaInteraciones p{
+    margin-right: 20px;
+}
+
+
+
+
+.bodyNosotros{
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+}
+
+.contenidoIzquierdaNosotros{
+    width: 50%;
+    height: 100%;
+
+}
+
+.contenidoDerechaNosotros{
+    width: 50%;
+}
+
+.contenidoDerechaNosotros img{
+    width: 100%;
+}
+
+.sobreMiNosotros{
+    align-items: start;
+    width: 100%;
+}
+
+.sobreMiNosotros h4{
+    font-size: 30px;
+    color: rgb(197, 223, 197);
+    background-color: rgb(56, 56, 56);
+    width: 180px;
+    padding: 5px;
+}
+
+textoBodyNosotros{
+    align-items: center;
+    width: 100%;
+}
+
+botonBodyNosotros p{
+    border: 3px solid black;
+}
+
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario form{
+    width: 900px;
+}
+
+.formulario form div input{
+    width: 100%;
+    padding: 5px;
+
+}
+
+.formulario form div{
+    margin-bottom: 2px;
+}
+
+.textoForm input{
+    height: 100px;
+}
+
+.botonForm{
+    justify-content: end;
+}
+
+.botonForm input{
+    background-color: rgb(197, 223, 197);
+    border: 0px;
+    width: 25px;
+}
+
+.contacto h3{
+    margin-left: 200px;
+    font-size: 30px;
+    color: rgb(197, 223, 197);
+    background-color: rgb(56, 56, 56);
+    width: 250px;
+    padding: 5px;
+}

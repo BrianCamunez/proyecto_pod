@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mis Podcasts</title>
+        <link>https://sulaiman256.github.io/PodcastSulaimanv1/</link>
+        <description>Una seleccion de podcasts interesantes.</description>
+        <language>es</language>
+        <pubDate>Mon, 17 Apr 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 17 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>The Wild Project #135 ft Javi Santaolalla | Multiversos, Secuencia Fibonacci, Invierno Nuclear</title>
+           
+             <descripcion>Javier Santaolalla vuelve a The Wild Project con un nuevo episodio sobre multiversos, ciencia en películas, la existencia del universo y batallas de genios.</descripcion>
+            <language>es</language>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.youtube.com/watch?v=h0LjHGjcBJE" length="" type="audio/mpeg" />
+        </item>
+
+        <item>
+            <title>Worldcast #63 | Karles Toràh - Viaje Antártida, Sociedad Secreta, Simulación, Seres Humanoides.</title>
+           
+            <descripcion>Karles Toràh en Worldcast: Antártida, civilización antigua, simulación y seres humanoides</descripcion>
+            <language>es</language>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.youtube.com/watch?v=2PdKIV2RthM" length="" type="audio/mpeg" />
+            
+        </item>
+
+        <item>
+            <title>desokupa y tal #12</title>
+            
+                  <descripcion>Explora las complejidades de los desalojos ilegales con Ricky Edit en 'Desokupa y Tal' #12. Una mirada profunda a un tema candente.</descripcion>
+            <language>es</language>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="" length="" type="" />
+            
+        </item>
+
+        <item>
+            <title>Nacho: La Persona Más Inteligente que Conocerás | Sin Miedo Al Éxito Ep.26</title>
+            
+            <descripcion>Sumérgete en la vida y logros de Nacho García, una inspiración para todos los que persiguen la grandeza y la superación personal.</descripcion>
+            <language>es</language>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="" length="" type="" />
+            
+        </item>
+
+        <item>
+            <title>CLUB 113 | EXPERTO EN SUEÑOS</title>
+            <descripcion>Explora los fascinantes misterios del mundo onírico y aprende de los expertos sobre cómo interpretar tus sueños.</descripcion>
+            <language>es</language>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="" length="" type="" />
+            
+        </item>
+
+    </channel>
+</rss>
